@@ -3,10 +3,10 @@
 import pandas as pd
 import os
 import hopsworks
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 # Load environment variables from .env file
-load_dotenv()
+# load_dotenv()
 
 def connect_to_hopsworks():
     """Connects to the Hopsworks project."""

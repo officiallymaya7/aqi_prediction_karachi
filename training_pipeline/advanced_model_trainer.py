@@ -5,7 +5,7 @@ import numpy as np
 import os
 import hopsworks
 import joblib
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
@@ -13,7 +13,7 @@ from xgboost import XGBRegressor # Make sure to install xgboost: pip install xgb
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 
 # Load environment variables
-load_dotenv()
+# load_dotenv()
 
 def connect_to_hopsworks():
     """Connects to the Hopsworks project."""
