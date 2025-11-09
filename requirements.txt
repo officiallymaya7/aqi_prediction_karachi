@@ -1,0 +1,37 @@
+# Data handling
+pandas
+numpy
+
+# API requests
+requests
+
+# Feature store
+hopsworks  # <-- YAHAN SE # HATA DIYE
+
+# Machine learning
+scikit-learn
+tensorflow
+torch
+
+# Model interpretation
+shap
+lime
+
+# Web application
+streamlit
+flask
+fastapi
+uvicorn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Utilities
+python-dotenv
+pydantic
+joblib
+
+# Testing
+pytest
