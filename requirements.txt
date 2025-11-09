@@ -33,5 +33,8 @@ python-dotenv
 pydantic
 joblib
 
+
 # Testing
 pytest
+
+xgboost
